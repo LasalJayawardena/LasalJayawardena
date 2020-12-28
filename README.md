@@ -8,7 +8,7 @@
 
 🌱 I’m currently following a Bachelor's Degree in Artificial Intelligence and Data Science .
 
-👯 I’m looking to collaborate on open sourc projects and any data related or web projects as well.
+👯 I’m looking to collaborate on open source projects and any data related or web projects as well.
 
 🤔 I’m looking for help with improving my skills as a developer and a data scientist.
 
