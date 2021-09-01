@@ -2,9 +2,9 @@
 
 <div style="dislay:flex; flex-direction:column">
   
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LasalJayawardena&hide=issues,contribs&count_private=true&show_icons=true&theme=algolia)]
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LasalJayawardena&hide=issues,contribs&count_private=true&show_icons=true&theme=algolia)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LasalJayawardena&layout=compact&theme=algolia)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LasalJayawardena&layout=compact&theme=algolia)
 </div>
 
 
