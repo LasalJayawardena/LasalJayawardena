@@ -22,7 +22,7 @@
 📫 How to reach me: <a href="https://www.linkedin.com/in/lasal-jayawardena-3b5b73195/">LinkedIn<a/>
 
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools</h3>
 
 
 <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>
