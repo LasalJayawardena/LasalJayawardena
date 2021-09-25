@@ -1,12 +1,6 @@
 # Lasal Jayawardena
 
 <div style="dislay:flex; flex-direction:column">
-  
-![Lasal's github stats](https://github-readme-stats.vercel.app/api?username=LasalJayawardena&hide=issues,contribs&count_private=true&show_icons=true&theme=algolia)
-<!-- 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LasalJayawardena&layout=compact&theme=algolia)
-</div> -->
-
 
 
 🔭 I’m currently working on Data science and machine learning projects.
@@ -32,6 +26,12 @@
 <a href="https://www.latex-project.org/" target="_blank"> <img src="https://i.ibb.co/5T3r3QH/latex-2.png" alt="latex" width="40" height="40"/>  </a>  
   </p>
 
+  
+    
+![Lasal's github stats](https://github-readme-stats.vercel.app/api?username=LasalJayawardena&hide=issues,contribs&count_private=true&show_icons=true&theme=algolia)
+<!-- 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LasalJayawardena&layout=compact&theme=algolia)
+</div> -->
   
   
   [![Lasal's github activity graph](https://activity-graph.herokuapp.com/graph?username=LasalJayawardena&theme=react-dark)](https://lasaljayawardena.github.io/)
