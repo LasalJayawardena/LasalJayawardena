@@ -13,11 +13,11 @@
 
 🌱 I’m currently following a Bachelor's Degree in Artificial Intelligence and Data Science .
 
-👯 I’m looking to collaborate on open source projects and any data related or web projects as well.
+<!-- 👯 I’m looking to collaborate on open source projects and any data related or web projects as well.
 
 🤔 I’m looking for help with improving my skills as a developer and a data scientist.
 
-💬 Ask me about anything... Netflix Movies, chess and obviously any software related topic.
+💬 Ask me about anything... Netflix Movies, chess and obviously any software related topic. -->
 
 📫 How to reach me: <a href="https://www.linkedin.com/in/lasal-jayawardena-3b5b73195/">LinkedIn<a/>
 
@@ -31,3 +31,13 @@
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" alt="vscode" width="40" height="40"/> 
 <a href="https://www.latex-project.org/" target="_blank"> <img src="https://i.ibb.co/5T3r3QH/latex-2.png" alt="latex" width="40" height="40"/>  </a>  
   </p>
+
+  
+  
+  [![Lasal's github activity graph](https://activity-graph.herokuapp.com/graph?username=LasalJayawardena&theme=react-dark)]()
+<hr>
+ <a href="https://github.com/ryo-ma/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=LasalJayawardena&column=8&theme=gruvbox&no-frame=true"/>
+</a>
+  <hr>
