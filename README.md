@@ -5,7 +5,7 @@
 
 🔭 I’m currently working on Data science and machine learning projects.
 
-🌱 I’m currently following a Bachelor's Degree in Artificial Intelligence and Data Science .
+🌱 I’m currently following a Bachelor's Degree in Artificial Intelligence and Data Science.
 
 <!-- 👯 I’m looking to collaborate on open source projects and any data related or web projects as well.
 
