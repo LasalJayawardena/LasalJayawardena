@@ -20,11 +20,6 @@
   
     
 ![Lasal's github stats](https://github-readme-stats.vercel.app/api?username=LasalJayawardena&hide=issues,contribs&count_private=true&show_icons=true&theme=algolia&count_private=true)
-<!-- 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LasalJayawardena&layout=compact&theme=algolia)
-</div> -->
-  
-<!--   [![Lasal's github activity graph](https://activity-graph.herokuapp.com/graph?username=LasalJayawardena&theme=react-dark)](https://lasaljayawardena.github.io/) -->
 <hr>
  <a href="https://github.com/ryo-ma/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
 <a href="https://github.com/ryo-ma/github-profile-trophy">
