@@ -7,7 +7,6 @@
 
 🌱 I’m currently following a Bachelor's Degree in Artificial Intelligence and Data Science.
 
-
 📫 How to reach me: <a href="https://www.linkedin.com/in/lasal-jayawardena-3b5b73195/">LinkedIn<a/>
 
 
