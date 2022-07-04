@@ -13,7 +13,6 @@
 
 🌱 I’m currently following a Bachelor's Degree in Artificial Intelligence and Data Science.
 
-📫 How to reach me: <a href="">LinkedIn<a/>
 
 
 <div style="justify-content:center">
