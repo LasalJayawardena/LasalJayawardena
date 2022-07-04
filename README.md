@@ -10,8 +10,9 @@
 📫 How to reach me: <a href="https://www.linkedin.com/in/lasal-jayawardena/">LinkedIn<a/>
 
 
-
+<div style="justify-content:center">
   
-![Lasal's GitHub stats](https://github-readme-stats.vercel.app/api?username=LasalJayawardena&show_icons=true&theme=algolia&count_private=true)
-  <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LasalJayawardena&langs_count=5&theme=algolia&count_private=true)](https://github.com/LasalJayawardena)
+ <image alt="Lasal's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=LasalJayawardena&show_icons=true&theme=algolia&count_private=true"/>
+ 
+ <img alt="Top Lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LasalJayawardena&langs_count=3&theme=algolia&count_private=true"/>
+</div>
