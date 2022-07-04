@@ -28,7 +28,7 @@
  <a href="https://www.linkedin.com/in/lasal-jayawardena/">
   <img src="https://img.shields.io/badge/connect-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
  </a>
- <a href="https://www.linkedin.com/in/lasal-jayawardena/">
+ <a href="https://www.kaggle.com/lasaljaywardena">
   <img src="https://img.shields.io/badge/follow-%230077B5.svg?&style=for-the-badge&logo=kaggle&logoColor=green" />
  </a> 
  <a href="mailto:lasaljayawardena@icloud.com">
