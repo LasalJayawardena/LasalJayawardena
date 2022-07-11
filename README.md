@@ -9,7 +9,7 @@
 <div style="dislay:flex; flex-direction:column">
 
 
-🔭 I’m currently working at 99x in the ML Domain.
+🔭 I’m currently working at 99x in the ML and Data Science Domain.
 
 🌱 I’m currently following a Bachelor's Degree in Artificial Intelligence and Data Science.
 
