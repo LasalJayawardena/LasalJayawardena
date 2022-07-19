@@ -1,5 +1,5 @@
 <p align="center">
-  <h1> Lasal Jayawardena </h1>
+  <h1 align="center"> Lasal Jayawardena </h1>
 </p>
 
 <p align="center">
