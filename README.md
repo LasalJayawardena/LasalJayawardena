@@ -22,7 +22,7 @@
  <img alt="Top Lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LasalJayawardena&langs_count=3&theme=algolia&count_private=true"/>
 </div>
 
-## 📫 How to Reach Me
+## 📫 Reach Me @
 
 <p align="center">
  <a href="https://www.linkedin.com/in/lasal-jayawardena/">
