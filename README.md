@@ -37,8 +37,7 @@
 </p>
 
 
-## GuestBook 
-<a href="https://github.com/LasalJayawardena/LasalJayawardena/issues/1#issuecomment-new"><img src="guestbook.svg"></a> 
+## Guestbook ([🆕🖊️ add an entry](https://github.com/LasalJayawardena/LasalJayawardena/issues/1#issuecomment-new))
 
 <!-- Guestbook -->
 | Name | Date | Message |
