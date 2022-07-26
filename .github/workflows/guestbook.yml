@@ -1,7 +1,7 @@
 # Credit to https://github.com/openscript/openscript :)
 
-
 on:
+  workflow_dispatch:
   issue_comment:
     types: [created, edited, deleted]
 
@@ -23,7 +23,7 @@ jobs:
             const query = `query($owner:String!, $name:String!, $issue_number:Int!) {
               repository(owner:$owner, name:$name){
                 issue(number:$issue_number) {
-                  comments(first:5,orderBy:{direction:DESC, field:UPDATED_AT}) {
+                  comments(first:10,orderBy:{direction:DESC, field:UPDATED_AT}) {
                     nodes {
                       author {
                         avatarUrl(size: 24)
@@ -46,7 +46,7 @@ jobs:
             const renderComments = (comments) => {
               return comments.reduce((prev, curr) => {
                 const sanitizedText = curr.bodyText.replace(/(\r\n|\r|\n)/g, "<br />").replace('|', '&#124;');
-                return `${prev}| <a href="${curr.author.url}"><img width="24" src="${curr.author.avatarUrl}" alt="${curr.author.login}" /> ${curr.author.login}</a> |${new Date(curr.updatedAt).toLocaleString()}|${sanitizedText}|\n`;
+                return `${prev}|[![${curr.author.login}](${curr.author.avatarUrl})<br />${curr.author.login}](${curr.author.url})|${new Date(curr.updatedAt).toLocaleString()}|${sanitizedText}|\n`;
               }, "| Name | Date | Message |\n|---|---|---|\n");
             };
             const fileSystem = require('fs');
@@ -55,6 +55,6 @@ jobs:
       - name: Push guestbook update
         run: |
           git config --global user.name 'Github Actions'
-          git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git commit -am ':sparkles: update guestbook'
+          git config --global user.email '1105080+lasaljayawardena@users.noreply.github.com'
+          git commit -am 'feat: update guestbook'
           git push
