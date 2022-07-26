@@ -37,10 +37,3 @@
 </p>
 
 
-## Guestbook ([🆕🖊️ add an entry](https://github.com/LasalJayawardena/LasalJayawardena/issues/1#issuecomment-new))
-
-<!-- Guestbook -->
-| Name | Date | Message |
-|---|---|---|
-<!-- /Guestbook -->
-
