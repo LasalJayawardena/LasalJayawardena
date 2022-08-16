@@ -29,13 +29,13 @@
 
 <p align="center">
  <a href="https://www.linkedin.com/in/lasal-jayawardena/">
-  <img src="https://img.shields.io/badge/connect-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </img src="https://img.shields.io/badge/connect-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
  </a>
  <a href="https://www.kaggle.com/lasaljaywardena">
-  <img src="https://img.shields.io/badge/follow-%230077B5.svg?&style=for-the-badge&logo=kaggle&logoColor=green" />
+  </img src="https://img.shields.io/badge/follow-%230077B5.svg?&style=for-the-badge&logo=kaggle&logoColor=green" />
  </a> 
  <a href="mailto:lasaljayawardena@icloud.com">
-  <img src="https://img.shields.io/badge/email-%23C14438.svg?&style=for-the-badge&logo=Gmail&logoColor=white" />
+  </img src="https://img.shields.io/badge/email-%23C14438.svg?&style=for-the-badge&logo=Gmail&logoColor=white" />
  </a>
 </p>
 
