@@ -15,7 +15,7 @@
 
 
 
-<!-- <div style="display:flex;justify-content:center;align-items:center">
+<div style="display:flex;justify-content:center;align-items:center">
   
  <image alt="Lasal's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=LasalJayawardena&show_icons=true&theme=algolia&count_private=true"/>
  
@@ -23,7 +23,7 @@
  
  <center><img src="https://github-readme-streak-stats.herokuapp.com/?user=LasalJayawardena&theme=cobalt"/></center>
  
-</div> -->
+</div> 
 
 ## 📫 Reach Me @
 
