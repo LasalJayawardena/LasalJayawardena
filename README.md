@@ -28,7 +28,7 @@
 ## 📫 Reach Me @
 
 <p align="center">
- <a href="https://www.linkedin.com/in/lasal-jayawardena/">
+<!--  <a href="https://www.linkedin.com/in/lasal-jayawardena/">
   </img src="https://img.shields.io/badge/connect-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
  </a>
  <a href="https://www.kaggle.com/lasaljaywardena">
@@ -36,7 +36,7 @@
  </a> 
  <a href="mailto:lasaljayawardena@icloud.com">
   </img src="https://img.shields.io/badge/email-%23C14438.svg?&style=for-the-badge&logo=Gmail&logoColor=white" />
- </a>
+ </a> -->
 </p>
 
 
