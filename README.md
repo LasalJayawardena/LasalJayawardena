@@ -15,15 +15,15 @@
 
 
 
-<div style="display:flex;justify-content:center;align-items:center">
-  
- <image alt="Lasal's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=LasalJayawardena&show_icons=true&theme=algolia&count_private=true"/>
- 
- <img alt="Top Lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LasalJayawardena&langs_count=3&theme=algolia&count_private=true"/>
- 
- <center><img src="https://github-readme-streak-stats.herokuapp.com/?user=LasalJayawardena&theme=cobalt"/></center>
- 
-</div> 
+<div align="center">
+  <image alt="Lasal's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=LasalJayawardena&show_icons=true&theme=algolia&count_private=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LasalJayawardena&theme=cobalt"/>
+  <br>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LasalJayawardena&theme=github_dark" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LasalJayawardena&theme=github_dark"  />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LasalJayawardena&theme=github_dark"  />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LasalJayawardena&theme=github_dark" />
+</div>
 
 ## 📫 Reach Me @
 
