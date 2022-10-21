@@ -16,7 +16,7 @@
 
 
 <div align="center">
-  <image alt="Lasal's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=LasalJayawardena&show_icons=true&theme=dark&count_private=true"/>
+  <image alt="Lasal's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=LasalJayawardena&show_icons=true&theme=algolio&count_private=true"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=LasalJayawardena&theme=dark"/>
   <br>
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LasalJayawardena&theme=github_dark" />
