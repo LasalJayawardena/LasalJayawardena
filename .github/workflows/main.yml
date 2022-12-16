@@ -1,0 +1,30 @@
+name: Update README
+
+on:
+  schedule:
+    - cron:  '0 0 * * *'
+
+jobs:
+  update_readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Retrieve comments
+        run: |
+          curl -H "Authorization: Bearer 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" https://api.github.com/repos/LasalJayawardena/LasalJayawardena/issues/1/comments > comments.json
+      - name: Parse comments
+        run: |
+          jq =r '(.[].body) + ,\ + (.[].user.login)' comments.json > comments.txt
+      - name: Update README
+        run: |
+          sed -i '/GUESTBOOK_START/,/GUESTBOOK_END/d' README.md
+          echo -e "\n\n<!-- GUESTBOOK_START -->" >> README.md
+          while read p; do
+            echo "* $p" >> README.md
+          done <comments.txt
+          echo -e "<!-- GUESTBOOK_END -->" >> README.md
+      - name: Commit and push
+        run: |
+          git add README.md
+          git commit -m "Update README with guestbook comments"
+          git push
