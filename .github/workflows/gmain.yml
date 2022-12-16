@@ -1,0 +1,43 @@
+name: Guestbook
+
+on:
+  issue_comment:
+    types: [created]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check if issue is guestbook
+        if: github.event.issue.title == 'Guestbook'
+        run: |
+          # Extract all comments in the issue
+          comments=$(curl -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" -X GET "https://api.github.com/repos/${{ github.repository }}/issues/${{ github.event.issue.number }}/comments")
+          
+          # Update the README file with the comments
+          echo "## Guestbook" > temp.md
+          echo "" >> temp.md
+          for comment in $(echo "$comments" | jq -r '.[] | @base64'); do
+            _jq() {
+            echo ${comment} | base64 --decode | jq -r ${1}
+            }
+            echo "- $(echo "$(_jq '.user.login')"): $(echo "$(_jq '.body')")" >> temp.md
+          done
+          
+          # Append the guestbook section to the end of the README file
+          cat README.md >> temp.md
+          mv temp.md README.md
+          
+      - name: Commit and push changes
+        uses: actions/git@v2
+        with:
+          repository: ${{ github.repository }}
+          branch: master
+          message: Update README with guestbook comments
+          email: ${{ secrets.GITHUB_EMAIL }}
+          username: ${{ secrets.GITHUB_USERNAME }}
+          token: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git add README.md
+          git commit -m "Update README with guestbook comments"
+          git push
