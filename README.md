@@ -25,6 +25,11 @@
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LasalJayawardena&theme=github_dark" />
 </div>
 
+ <p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/LasalJayawardena/count.svg" />
+</p>
+  
 ## 📫 Reach Me @
 
 <p align="center">
