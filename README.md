@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/hero-intelligence.gif" width="100%" alt="Animated Lasal AI intelligence systems console" />
+<img src="./hero-intelligence.gif" width="100%" alt="Animated Lasal AI intelligence systems console" />
 
 <br/>
 
@@ -25,7 +25,7 @@
 
 ## `// 01` The thesis
 
-<img src="./assets/thesis-card.png" width="100%" alt="The model is not the finish line — build the intelligence around it" />
+<img src="./thesis-card.png" width="100%" alt="The model is not the finish line: build the intelligence around it" />
 
 I’m **Lasal Jayawardena**, an AI researcher and doctoral researcher based in **Aberdeen, Scotland**.
 
@@ -92,7 +92,7 @@ How can systems change their behaviour from context and prior outcomes instead o
 </tr>
 </table>
 
-<img src="./assets/intelligence-loop.gif" width="100%" alt="Animated intelligence loop: understand, retrieve, reason, evaluate, adapt, act" />
+<img src="./intelligence-loop.gif" width="100%" alt="Animated intelligence loop: understand, retrieve, reason, evaluate, adapt, act" />
 
 ---
 
@@ -110,25 +110,25 @@ How can systems change their behaviour from context and prior outcomes instead o
 
 ### Selected work
 
-**CBR-RAG — Case-Based Reasoning for Retrieval Augmented Generation in LLMs for Legal Question Answering** · 2024  
+**CBR-RAG: Case-Based Reasoning for Retrieval Augmented Generation in LLMs for Legal Question Answering** · 2024  
 A retrieval architecture that uses case representation and similarity knowledge to provide more relevant evidence for legal QA. **280+ citations** on Google Scholar.
 
-**ParaFusion — A Large-Scale LLM-Driven English Paraphrase Dataset** · 2024  
+**ParaFusion: A Large-Scale LLM-Driven English Paraphrase Dataset** · 2024  
 A large-scale paraphrase resource designed around lexical and syntactic diversity, semantic similarity, and cleaner language data.
 
-**AlignLLM — Alignment-Based Evaluation Using an Ensemble of LLMs-as-Judges for Q&A** · 2025  
+**AlignLLM: Alignment-Based Evaluation Using an Ensemble of LLMs-as-Judges for Q&A** · 2025  
 Exploring stronger evaluation through multiple LLM judges rather than treating one evaluator as ground truth.
 
 **Context-Driven Multi-Query Resolution Using LLM-RAG** · 2025  
 Using contextual retrieval and multiple queries to support the revision of explainability needs.
 
-**RAPT — Retrieval-Augmented Post-hoc Thresholding for Multi-Label Classification** · 2026  
+**RAPT: Retrieval-Augmented Post-hoc Thresholding for Multi-Label Classification** · 2026  
 Retrieval-driven threshold adaptation: using similar historical decisions to make context-aware label-set predictions instead of relying on a single fixed threshold.
 
 **Case-Based Adaptation + Retrieval-Augmented Self-Reflection** · 2026  
 Combining retrieval, adaptation, and reflection to improve multi-label classification decisions.
 
-**SCaLe-QA — Sri Lankan Case Law Embeddings for Legal QA** · 2024  
+**SCaLe-QA: Sri Lankan Case Law Embeddings for Legal QA** · 2024  
 Domain-specific legal representations for semantic retrieval and question answering over Sri Lankan case law.
 
 <div align="center">
@@ -237,7 +237,7 @@ I care just as much about turning those ideas into systems through:
 </tr>
 </table>
 
-My interest is the space where **research becomes architecture** — where an idea has to survive noisy data, imperfect retrieval, latency, governance, security, users, and consequences.
+My interest is the space where **research becomes architecture**, where an idea has to survive noisy data, imperfect retrieval, latency, governance, security, users, and consequences.
 
 ---
 
@@ -246,10 +246,19 @@ My interest is the space where **research becomes architecture** — where an id
 <table>
 <tr>
 <td width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=LasalJayawardena&show_icons=true&hide_border=true&bg_color=050A18&title_color=00D9FF&text_color=C8D9E8&icon_color=20E6BE&rank_icon=github" width="100%" alt="GitHub stats" />
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LasalJayawardena&theme=transparent&title_color=00D9FF&text_color=C8D9E8&bg_color=050A18&border_color=050A18&icon_color=20E6BE&animation=rise&duration=2"
+  width="100%"
+  alt="Lasal Jayawardena GitHub statistics"
+/>
 </td>
+
 <td width="50%">
-<img src="https://streak-stats.demolab.com?user=LasalJayawardena&hide_border=true&background=050A18&ring=00D9FF&fire=20E6BE&currStreakLabel=7CE7FF&sideLabels=C8D9E8&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=7890A2" width="100%" alt="GitHub streak" />
+<img
+  src="https://streak-stats.demolab.com?user=LasalJayawardena&hide_border=true&background=050A18&ring=00D9FF&fire=20E6BE&currStreakLabel=7CE7FF&sideLabels=C8D9E8&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=7890A2"
+  width="100%"
+  alt="GitHub streak"
+/>
 </td>
 </tr>
 </table>
@@ -260,23 +269,6 @@ My interest is the space where **research becomes architecture** — where an id
   <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/LasalJayawardena/LasalJayawardena/output/github-contribution-grid-snake.svg" width="100%" />
 </picture>
 
-<details>
-<summary><b>▸ open stack.sys</b></summary>
-<br/>
-
-**AI / Research**  
-`PyTorch` `TensorFlow` `Transformers` `LLMs` `RAG` `NLP` `NLG` `CBR` `LLM Evaluation` `Vector Search` `Knowledge Graphs` `Document AI`
-
-**Engineering / Data**  
-`Python` `Java` `C++` `SQL` `ETL` `Data Engineering` `System Architecture` `Git` `Docker` `Linux`
-
-**Infrastructure**  
-`AWS` `Azure` `GCP` `Kubernetes` `MLOps` `Cloud Architecture` `Secure AI Infrastructure`
-
-**Data / Knowledge**  
-`Neo4j` `PostgreSQL` `MongoDB` `MySQL` `Vector Databases` `Data Governance` `Entity Resolution`
-
-</details>
 
 ---
 
@@ -327,6 +319,5 @@ Research · Publications · Projects · Writing · Systems
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050A18,50:0B3B5A,100:00D9FF&height=120&section=footer" width="100%" alt="footer" />
 
-<sub>researching what comes after generation</sub>
 
 </div>
